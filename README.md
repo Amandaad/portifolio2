@@ -46,17 +46,17 @@ Plataforma web utilizando **FastAPI, PostgreSQL, React e Docker**.
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Amandaad&show_icons=true&hide_border=true&theme=default&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=Amandaad&show_icons=true&theme=dark&hide_border=true&locale=pt-br"
+    alt="GitHub Stats"
   />
 
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandaad&layout=compact&hide_border=true&theme=default&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandaad&layout=compact&langs_count=8&theme=dark&hide_border=true&locale=pt-br"
+    alt="Top Languages"
   />
 </p>
 
@@ -64,21 +64,10 @@ Plataforma web utilizando **FastAPI, PostgreSQL, React e Docker**.
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=Amandaad&hide_border=true&theme=default"
+    src="https://streak-stats.demolab.com/?user=Amandaad&theme=dark&hide_border=true&locale=pt_BR"
     alt="GitHub Streak"
   />
 </p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Amandaad&hide_border=true&theme=default"
-    alt="GitHub Streak"
-  />
-</p>
-
----
 
 ## 🎯 Objetivo
 
