@@ -46,6 +46,8 @@ Plataforma web utilizando **FastAPI, PostgreSQL, React e Docker**.
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
   <img
     height="180"
@@ -55,6 +57,15 @@ Plataforma web utilizando **FastAPI, PostgreSQL, React e Docker**.
   <img
     height="180"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandaad&layout=compact&hide_border=true&theme=default&langs_count=8"
+  />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Amandaad&hide_border=true&theme=default"
+    alt="GitHub Streak"
   />
 </p>
 
