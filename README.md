@@ -79,4 +79,6 @@ Busco oportunidades como **Desenvolvedora Júnior, Backend, Full Stack ou Data E
 
 📍 Brasil | 🌐 Disponível para oportunidades remotas
 
-🔗 [GitHub](https://github.com/Amandaad)
+🔗 **LinkedIn:** [Meu perfil](https://www.linkedin.com/in/SEU_USUARIO/)
+
+🔗 **GitHub:** [Amandaad](https://github.com/Amandaad)
